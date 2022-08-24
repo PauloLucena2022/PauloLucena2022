@@ -1,4 +1,4 @@
-## BEM VNDO!!! Eu sou Paulo Henrique Lucena
+## Bem Vindo!!! Eu sou Paulo Lucena.
 
 - Linguagem de estudo atual: Python
 - Contato pelo email: contatopaulolucena19@gmail.com
