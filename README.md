@@ -6,4 +6,10 @@
 - Sempre em busca de uma lógica mais apurada 📚
 - Organização é a chave de tudo! 🔑
 
+## Welcome!!! I am Paulo Lucena.
 
+- Language Learning: Python 🐍
+- Contact: contatopaulolucena19@gmail.com 📩
+- Goal: To do a yesterday codes more easy, and evolve for new challenges 🧑🏽‍💻
+- I am ever seeking a better logic 📚
+- Organization is the all key 🔑
