@@ -1,6 +1,6 @@
 ## Bem Vindo(a)!!! Eu sou Paulo Lucena.
 
-- Linguagem de estudo atual: Python 🐍
+- Linguagens de estudo atual: Python, JavaScript, HTML, CSS e JAVA
 - Contato pelo email: phpdelucena11@gmail.com 📩
 - Meta: tornar os códigos de ontem mais acessíveis e assim evoluir para novos desafios 🧑‍💻
 - Sempre em busca de uma lógica mais apurada 📚
@@ -8,7 +8,7 @@
 
 ## Welcome!!! I am Paulo Lucena.
 
-- Language Learning: Python 🐍
+- Language Learning: Python, JavaScript, HTML, CSS e JAVA 
 - Contact: phpdelucena11@gmail.com 📩
 - Goal: To do a yesterday codes more easy, and evolve for new challenges 🧑🏽‍💻
 - I am ever seeking a better logic 📚
