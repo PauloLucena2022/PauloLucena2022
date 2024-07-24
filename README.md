@@ -1,14 +1,16 @@
 ## Bem Vindo(a)!!! Eu sou Paulo Lucena.
 
-- Linguagens de estudo atual: Python, JavaScript, HTML, CSS e JAVA
+- Foco em Data Science e Deep Learning com Python
+- Outras linguagens de programação: C, C++, JAVA, R
 - Contato pelo email: phpdelucena11@gmail.com 📩
 - Meta: tornar os códigos de ontem mais acessíveis e assim evoluir para novos desafios 🧑‍💻
 - Sempre em busca de uma lógica mais apurada 📚
-- Organização é a chave de tudo! 🔑
+- Organização é a chave de tudo! 🔑 
 
 ## Welcome!!! I am Paulo Lucena.
 
-- Language Learning: Python, JavaScript, HTML, CSS e JAVA 
+- Focus in Data Science and Deep Learning
+- Other Languages: C, C++, JAVA, R
 - Contact: phpdelucena11@gmail.com 📩
 - Goal: To do a yesterday codes more easy, and evolve for new challenges 🧑🏽‍💻
 - I am ever seeking a better logic 📚
